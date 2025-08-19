@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+<html>
+ <form action="https://www.youtube.com/watch?v=BsIa_LKojJI">
+    <input type="submit" value="Find Flag!" />
+</form>
+</html>
+<!Change the button value to the blank page that contains thereof the Flag in Hashed>
