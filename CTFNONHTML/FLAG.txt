@@ -1,3 +1,5 @@
+
+
 Which flag is the true flag?
 Its not what it seems.
 The flag is righht under a nose....
@@ -62,3 +64,8 @@ but which nose?
 01100011 00000000 01110100 00000000 01110101 00000000 01100001 00000000 01101100 
 00000000 01000011 00000000 01010100 00000000 01000110 00000000 01000110 00000000 
 01001100 00000000 01100001 00000000 01100111 00000000
+
+
+
+Once you are done, head on over to this google form
+https://forms.gle/BcbGKtySNnDknfUu9
